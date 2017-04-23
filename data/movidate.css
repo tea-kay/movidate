@@ -1,5 +1,6 @@
 
 .body-container {
+    font-family: arial ;
     max-width: 1000px;
     margin: 15px auto;
 }
@@ -9,8 +10,16 @@
 #bio {
     max-height: 350px;
 }
-img {
+#actor-img {
     border: 1px;
     max-width: 200px;
     max-height: 300px;
+}
+#movie-img {
+    border: 1px;
+    max-width: 200px;
+    max-height: 300px;
+}
+#logo-img {
+    max-width: 165px;
 }
