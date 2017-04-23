@@ -1,0 +1,16 @@
+
+.body-container {
+    max-width: 1000px;
+    margin: 15px auto;
+}
+#plot {
+    max-height: 150px;
+}
+#bio {
+    max-height: 350px;
+}
+img {
+    border: 1px;
+    max-width: 200px;
+    max-height: 300px;
+}
